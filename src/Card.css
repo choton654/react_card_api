@@ -1,0 +1,9 @@
+.Card {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    /* transform: translate(10px, 20px) rotate(10deg) */
+}

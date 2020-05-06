@@ -1,0 +1,27 @@
+.Deck {
+    margin-top: 80px;
+}
+
+.Deck-btn {
+    background: none;
+    border: 2px solid;
+    outline: none;
+    font: inherit;
+    margin: 0.5em;
+    padding: 1em 2em;
+    color: aqua;
+    transition: 0.25s;
+}
+
+.Deck-btn:hover {
+    border-color: aquamarine;
+    color: wheat;
+    box-shadow: inset 0 0 0 2em aquamarine;
+}
+
+.Deck-title {
+    color: azure;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
